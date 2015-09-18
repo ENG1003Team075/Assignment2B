@@ -12,12 +12,13 @@ MEMBER 2 Bohan Lin
  
 MEMBER 3 Joshua Lay
 	
-	First Year university student, studying at Monash University (CLayton). I am studying a Bachelor of Engineering (honours) and Arts (Languages) at Monash University.
-	
-	Role in the Project: Team Leader
+MEMBER 4 Pedro Carvalho Ribeiro de Almeida
 
-	Preferred branch of engineering: Mechatronics
-	
-	Arts: Japanese and Linguistics
- 
+	Brief Introduction
+
+	Role in project: Schedule Leader
+
+	Preferred branch of engineering: Environmental
+=======
 MEMBER 4 NAME
+>>>>>>> master
