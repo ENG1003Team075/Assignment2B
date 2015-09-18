@@ -7,3 +7,11 @@ MEMBER 2 Bohan Lin
 MEMBER 3 NAME
  
 MEMBER 4 NAME
+
+Ziyang Li 
+ 
+20 years old , student.
+ 
+Role in project: team leader, programmer
+ 
+Preferred branch of engineering: computer and elevtrical engineering
