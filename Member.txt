@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM X
  
 MEMBER 1 Ziyang Li
+
+20 years old , student.
+ 
+Role in project: team leader, programmer
+ 
+Preferred branch of engineering: computer and elevtrical engineering
  
 MEMBER 2 Bohan Lin
  
