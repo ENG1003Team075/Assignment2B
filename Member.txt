@@ -4,8 +4,7 @@ MEMBER 1 Ziyang Li
  
 MEMBER 2 Bohan Lin
  
-MEMBER 3 
-
+MEMBER 3 NAME
  
 MEMBER 4 Pedro Carvalho Ribeiro de Almeida
 
